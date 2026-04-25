@@ -1,16 +1,31 @@
-## Hi there 👋
+# Carlos Adolfo García Torres  
+**Data Analyst | Python | SQL | Machine Learning | AI**
 
-<!--
-**carlos-torres-data-analyst/carlos-torres-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Data Analyst with a background in Biotechnology and advanced training in Applied Artificial Intelligence (MIT).
 
-Here are some ideas to get you started:
+I specialize in:
+- Data Analysis
+- Machine Learning
+- Data-driven decision making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strong interest in:
+- AI & Deep Learning
+- Healthcare applications
+- Business analytics
+
+## 🧠 Featured Projects
+🔬 Malaria Detection using Deep Learning (CNN)  
+📊 FoodHub Data Analysis  
+📈 Business Analytics – Smash Burger Operations  
+🔢 Digit Recognition using CNN  
+
+## 🛠 Tech Stack
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Machine Learning (CNN, Supervised Learning)
+- Power BI (in progress)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/carlos-adolfo-garcia-torres-1367511a8
+- Email: carlostorres@toke.com
