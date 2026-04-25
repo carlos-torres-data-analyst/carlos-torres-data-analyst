@@ -17,10 +17,10 @@ Strong interest in:
 - Business analytics
 
 ## 🧠 Featured Projects
-🔬 Malaria Detection using Deep Learning (CNN)  
-📊 FoodHub Data Analysis  
-📈 Business Analytics – Smash Burger Operations  
-🔢 Digit Recognition using CNN  
+🔬 Malaria Detection using Deep Learning (CNN) – Healthcare AI  
+📊 FoodHub Data Analysis – Business Insights  
+🍔 Business Analytics – Pricing & Profit Optimization  
+🔢 Digit Recognition using CNN – Computer Vision  
 
 ## 🛠 Tech Stack
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
