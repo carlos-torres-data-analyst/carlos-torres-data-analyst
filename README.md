@@ -8,6 +8,8 @@ I specialize in:
 - Data Analysis
 - Machine Learning
 - Data-driven decision making
+- Biotechnology
+- Scientific research
 
 Strong interest in:
 - AI & Deep Learning
